@@ -1,0 +1,168 @@
+{
+  "uid" : "bf73878d2408a971",
+  "name" : "test_programe_info[项目详情]",
+  "fullName" : "case.programe_list_test.Test_Programe_List#test_programe_info",
+  "historyId" : "5b58c31393c061e5d0001d7b127b587d",
+  "time" : {
+    "start" : 1626855067288,
+    "stop" : 1626855067377,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "host",
+    "time" : {
+      "start" : 1626855066155,
+      "stop" : 1626855066156,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "项目详情",
+      "time" : {
+        "start" : 1626855067289,
+        "stop" : 1626855067375,
+        "duration" : 86
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "790e25dee217f708",
+      "name" : "log",
+      "source" : "790e25dee217f708.txt",
+      "type" : "text/plain",
+      "size" : 20291
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "项目详情"
+  }, {
+    "name" : "tag",
+    "value" : "process"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "programe_list_test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Programe_List"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-IOVUFIFT"
+  }, {
+    "name" : "thread",
+    "value" : "32364-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.programe_list_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "activityId",
+    "value" : "'1'"
+  }, {
+    "name" : "expect",
+    "value" : "{'result_code': '0', 'result_message': 'ok'}"
+  }, {
+    "name" : "pageNum",
+    "value" : "'1'"
+  }, {
+    "name" : "pageSize",
+    "value" : "'10'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fde0f46557a03310",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626854230966,
+        "stop" : 1626854231111,
+        "duration" : 145
+      }
+    }, {
+      "uid" : "2c2c5167e13718f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626852654186,
+        "stop" : 1626852654347,
+        "duration" : 161
+      }
+    }, {
+      "uid" : "16035867fc6a3573",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626771245138,
+        "stop" : 1626771245302,
+        "duration" : 164
+      }
+    }, {
+      "uid" : "556b13a473a47362",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626771165546,
+        "stop" : 1626771165633,
+        "duration" : 87
+      }
+    }, {
+      "uid" : "fc080f6149a63842",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626771068310,
+        "stop" : 1626771068456,
+        "duration" : 146
+      }
+    }, {
+      "uid" : "5931f57a4cb31897",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768496892,
+        "stop" : 1626768497096,
+        "duration" : 204
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "process" ]
+  },
+  "source" : "bf73878d2408a971.json",
+  "parameterValues" : [ "'1'", "{'result_code': '0', 'result_message': 'ok'}", "'1'", "'10'" ]
+}

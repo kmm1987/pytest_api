@@ -1,0 +1,20 @@
+home_service_list:
+  - ['1','10','1',{'result_code': '0', 'result_message': 'ok'}]
+activity_list:
+  #- ["","",{"'"result_code": "0", 'result_message': '处理成功'}]
+  - ['1','10',{'result_code': 0, 'result_message': 'ok'}]
+programe_list:
+  #- ['1','10','1',{'result_code': '0', 'result_message': '处理成功'}]
+  - ['1','10','1',{'result_code': '0', 'result_message': 'ok'}]
+activityandprograme_list:
+  #- ['','',{'result_code': '0', 'result_message': '处理成功'}]
+  - ['','','',{'result_code': '0', 'result_message': 'ok'}]
+
+
+#add_or_update_service:
+#  - [['1','1','1','1','1','123456','1','测试','1','1','1','1','1','1'],{'result_code': '0', 'result_message': '处理成功'}]
+#add_service_price:
+#  - ['123456789','10','0','','0',{'result_code': '0', 'result_message': '处理成功'}]
+#apply_service:
+#  - ['','',{'result_code': '0', 'result_message': '处理成功'}]
+

@@ -1,0 +1,145 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "case",
+    "children" : [ {
+      "name" : "activity_list_test",
+      "children" : [ {
+        "name" : "test_activity_info[活动详情]",
+        "uid" : "e3a74271ee1cc214",
+        "parentUid" : "258e679f0aaaa10e6a147b5bb8a2f384",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626768495348,
+          "stop" : 1626768495568,
+          "duration" : 220
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'result_code': 0, 'result_message': 'ok'}", "'1'", "'10'" ]
+      } ],
+      "uid" : "258e679f0aaaa10e6a147b5bb8a2f384"
+    }, {
+      "name" : "activityandprograme_list_test",
+      "children" : [ {
+        "name" : "test_programe_info[活动项目详情]",
+        "uid" : "9654a0230e669f90",
+        "parentUid" : "e0961bd26c0bd60b77d9c017b6920050",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626855066158,
+          "stop" : 1626855066903,
+          "duration" : 745
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "''", "{'result_code': '0', 'result_message': 'ok'}", "''", "''" ]
+      } ],
+      "uid" : "e0961bd26c0bd60b77d9c017b6920050"
+    }, {
+      "name" : "home_service_list_test",
+      "children" : [ {
+        "name" : "test_programe_info[活动申请详情]",
+        "uid" : "1e0f786d476cc1d7",
+        "parentUid" : "024d839b608193e9244515c1f799b491",
+        "status" : "broken",
+        "time" : {
+          "start" : 1626855066921,
+          "stop" : 1626855066957,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'1'", "{'result_code': '0', 'result_message': 'ok'}", "'1'", "'10'" ]
+      } ],
+      "uid" : "024d839b608193e9244515c1f799b491"
+    }, {
+      "name" : "programe_list_test",
+      "children" : [ {
+        "name" : "test_programe_info[项目详情]",
+        "uid" : "bf73878d2408a971",
+        "parentUid" : "c44fdba37fef7995e425b8b0ade0b201",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626855067288,
+          "stop" : 1626855067377,
+          "duration" : 89
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'1'", "{'result_code': '0', 'result_message': 'ok'}", "'1'", "'10'" ]
+      } ],
+      "uid" : "c44fdba37fef7995e425b8b0ade0b201"
+    }, {
+      "name" : "test_activity_list",
+      "children" : [ {
+        "name" : "test_activity_info[活动详情]",
+        "uid" : "7adbcebbee1433bc",
+        "parentUid" : "f2ba204bebd60c09eb3491a3a147ac3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626855560567,
+          "stop" : 1626855560794,
+          "duration" : 227
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'result_code': 0, 'result_message': 'ok'}", "'1'", "'10'" ]
+      } ],
+      "uid" : "f2ba204bebd60c09eb3491a3a147ac3b"
+    }, {
+      "name" : "test_activityandprograme_list",
+      "children" : [ {
+        "name" : "test_programe_info[活动项目详情]",
+        "uid" : "a165b100443afc59",
+        "parentUid" : "f8607db76afcca3568f6228a7b3134a6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626855560806,
+          "stop" : 1626855561163,
+          "duration" : 357
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "''", "{'result_code': '0', 'result_message': 'ok'}", "''", "''" ]
+      } ],
+      "uid" : "f8607db76afcca3568f6228a7b3134a6"
+    }, {
+      "name" : "test_home_service_list",
+      "children" : [ {
+        "name" : "test_programe_info[活动申请详情]",
+        "uid" : "ffb0d3fe87b167dc",
+        "parentUid" : "168beb6e1a042a3798e4c01335b8ae52",
+        "status" : "broken",
+        "time" : {
+          "start" : 1626855561175,
+          "stop" : 1626855561211,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'1'", "{'result_code': '0', 'result_message': 'ok'}", "'1'", "'10'" ]
+      } ],
+      "uid" : "168beb6e1a042a3798e4c01335b8ae52"
+    }, {
+      "name" : "test_programe_list",
+      "children" : [ {
+        "name" : "test_programe_info[项目详情]",
+        "uid" : "fe3e0a99c40300fa",
+        "parentUid" : "fcb94dd41645e638f36ee1e463c52d97",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626855561555,
+          "stop" : 1626855561680,
+          "duration" : 125
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'1'", "{'result_code': '0', 'result_message': 'ok'}", "'1'", "'10'" ]
+      } ],
+      "uid" : "fcb94dd41645e638f36ee1e463c52d97"
+    } ],
+    "uid" : "3a5ff917f72cbd03b2a2ff2549394ef0"
+  } ]
+}

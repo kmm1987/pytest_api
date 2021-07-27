@@ -1,0 +1,115 @@
+{
+  "uid" : "76d513381c17bf4d",
+  "name" : "test_activity_info[活动详情]",
+  "fullName" : "case.test_activity_list.Test_Activity_List#test_activity_info",
+  "historyId" : "e75843f4319470f5f035c4f576a61752",
+  "time" : {
+    "start" : 1626854231123,
+    "stop" : 1626854231165,
+    "duration" : 42
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "host",
+    "time" : {
+      "start" : 1626854229914,
+      "stop" : 1626854229914,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "活动详情",
+      "time" : {
+        "start" : 1626854231124,
+        "stop" : 1626854231163,
+        "duration" : 39
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "69445de35f2b888d",
+      "name" : "log",
+      "source" : "69445de35f2b888d.txt",
+      "type" : "text/plain",
+      "size" : 7035
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "活动详情"
+  }, {
+    "name" : "tag",
+    "value" : "process"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_activity_list"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Activity_List"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-IOVUFIFT"
+  }, {
+    "name" : "thread",
+    "value" : "19388-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_activity_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expect",
+    "value" : "{'result_code': 0, 'result_message': 'ok'}"
+  }, {
+    "name" : "pageNum",
+    "value" : "'1'"
+  }, {
+    "name" : "pageSize",
+    "value" : "'10'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "process" ]
+  },
+  "source" : "76d513381c17bf4d.json",
+  "parameterValues" : [ "{'result_code': 0, 'result_message': 'ok'}", "'1'", "'10'" ]
+}

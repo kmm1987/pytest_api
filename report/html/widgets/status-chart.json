@@ -1,0 +1,81 @@
+[ {
+  "uid" : "a165b100443afc59",
+  "name" : "test_programe_info[活动项目详情]",
+  "time" : {
+    "start" : 1626855560806,
+    "stop" : 1626855561163,
+    "duration" : 357
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3a74271ee1cc214",
+  "name" : "test_activity_info[活动详情]",
+  "time" : {
+    "start" : 1626768495348,
+    "stop" : 1626768495568,
+    "duration" : 220
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ffb0d3fe87b167dc",
+  "name" : "test_programe_info[活动申请详情]",
+  "time" : {
+    "start" : 1626855561175,
+    "stop" : 1626855561211,
+    "duration" : 36
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bf73878d2408a971",
+  "name" : "test_programe_info[项目详情]",
+  "time" : {
+    "start" : 1626855067288,
+    "stop" : 1626855067377,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7adbcebbee1433bc",
+  "name" : "test_activity_info[活动详情]",
+  "time" : {
+    "start" : 1626855560567,
+    "stop" : 1626855560794,
+    "duration" : 227
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe3e0a99c40300fa",
+  "name" : "test_programe_info[项目详情]",
+  "time" : {
+    "start" : 1626855561555,
+    "stop" : 1626855561680,
+    "duration" : 125
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9654a0230e669f90",
+  "name" : "test_programe_info[活动项目详情]",
+  "time" : {
+    "start" : 1626855066158,
+    "stop" : 1626855066903,
+    "duration" : 745
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e0f786d476cc1d7",
+  "name" : "test_programe_info[活动申请详情]",
+  "time" : {
+    "start" : 1626855066921,
+    "stop" : 1626855066957,
+    "duration" : 36
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,19 @@
+[ {
+  "values" : [ "2.12.0" ],
+  "name" : "allureVersion"
+}, {
+  "values" : [ "3.8.10" ],
+  "name" : "pythonVersion"
+}, {
+  "values" : [ "https://portal.summer-ospp.ac.cn/summer" ],
+  "name" : "baseUrl"
+}, {
+  "values" : [ "wrx" ],
+  "name" : "author"
+}, {
+  "values" : [ "osscm summer 2021 online api" ],
+  "name" : "projectName"
+}, {
+  "values" : [ "win10" ],
+  "name" : "systemVersion"
+} ]

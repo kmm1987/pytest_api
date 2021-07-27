@@ -1,0 +1,4 @@
+INFO     root:logger.py:39 test_activity_info{------活动详情接口-----}
+DEBUG    urllib3.connectionpool:connectionpool.py:971 Starting new HTTPS connection (1): portal.summer-ospp.ac.cn:443
+DEBUG    urllib3.connectionpool:connectionpool.py:452 https://portal.summer-ospp.ac.cn:443 "GET /summer/rest/activityList?pageNum=1&pageSize=10 HTTP/1.1" 200 None
+INFO     root:logger.py:39 test_activity_info:获取请求结果：{'code': 40001, 'msg': 'invalid credential, access_token is invalid or not latest!'}

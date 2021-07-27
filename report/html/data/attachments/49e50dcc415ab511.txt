@@ -1,0 +1,3 @@
+INFO     root:logger.py:39 test_programe_info{------项目详情接口-----}
+DEBUG    urllib3.connectionpool:connectionpool.py:452 https://portal.summer-ospp.ac.cn:443 "GET /summer/rest/programList?pageNum=1&pageSize=10&activityId=1 HTTP/1.1" 200 None
+INFO     root:logger.py:39 test_programe_info:获取请求结果：{'code': 40001, 'msg': 'invalid credential, access_token is invalid or not latest!'}

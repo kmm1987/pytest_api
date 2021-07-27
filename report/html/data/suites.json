@@ -1,0 +1,177 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "case",
+    "children" : [ {
+      "name" : "activity_list_test",
+      "children" : [ {
+        "name" : "Test_Activity_List",
+        "children" : [ {
+          "name" : "test_activity_info[活动详情]",
+          "uid" : "e3a74271ee1cc214",
+          "parentUid" : "06e67ad7fc75b378429b6ca44ac040f8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1626768495348,
+            "stop" : 1626768495568,
+            "duration" : 220
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'result_code': 0, 'result_message': 'ok'}", "'1'", "'10'" ]
+        } ],
+        "uid" : "06e67ad7fc75b378429b6ca44ac040f8"
+      } ],
+      "uid" : "4bd03decd596657c8e08276b794c0efb"
+    }, {
+      "name" : "activityandprograme_list_test",
+      "children" : [ {
+        "name" : "Test_Programe_List",
+        "children" : [ {
+          "name" : "test_programe_info[活动项目详情]",
+          "uid" : "9654a0230e669f90",
+          "parentUid" : "da1794cefae5852241625912d9307f31",
+          "status" : "passed",
+          "time" : {
+            "start" : 1626855066158,
+            "stop" : 1626855066903,
+            "duration" : 745
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "''", "{'result_code': '0', 'result_message': 'ok'}", "''", "''" ]
+        } ],
+        "uid" : "da1794cefae5852241625912d9307f31"
+      } ],
+      "uid" : "3f280e3b5934562acbc898dbd1e22ee3"
+    }, {
+      "name" : "home_service_list_test",
+      "children" : [ {
+        "name" : "Test_HomeService_List",
+        "children" : [ {
+          "name" : "test_programe_info[活动申请详情]",
+          "uid" : "1e0f786d476cc1d7",
+          "parentUid" : "912929d46605804869dcdf9a33f7dcd2",
+          "status" : "broken",
+          "time" : {
+            "start" : 1626855066921,
+            "stop" : 1626855066957,
+            "duration" : 36
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'1'", "{'result_code': '0', 'result_message': 'ok'}", "'1'", "'10'" ]
+        } ],
+        "uid" : "912929d46605804869dcdf9a33f7dcd2"
+      } ],
+      "uid" : "396227ab321750896f40744fc5a26053"
+    }, {
+      "name" : "programe_list_test",
+      "children" : [ {
+        "name" : "Test_Programe_List",
+        "children" : [ {
+          "name" : "test_programe_info[项目详情]",
+          "uid" : "bf73878d2408a971",
+          "parentUid" : "15f0ea25dc8ff9efe5f34281eaa9583a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1626855067288,
+            "stop" : 1626855067377,
+            "duration" : 89
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'1'", "{'result_code': '0', 'result_message': 'ok'}", "'1'", "'10'" ]
+        } ],
+        "uid" : "15f0ea25dc8ff9efe5f34281eaa9583a"
+      } ],
+      "uid" : "08750463519384be50395bc37f1c4c25"
+    }, {
+      "name" : "test_activity_list",
+      "children" : [ {
+        "name" : "Test_Activity_List",
+        "children" : [ {
+          "name" : "test_activity_info[活动详情]",
+          "uid" : "7adbcebbee1433bc",
+          "parentUid" : "3f94b30c23da13401af1df89442ee773",
+          "status" : "passed",
+          "time" : {
+            "start" : 1626855560567,
+            "stop" : 1626855560794,
+            "duration" : 227
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'result_code': 0, 'result_message': 'ok'}", "'1'", "'10'" ]
+        } ],
+        "uid" : "3f94b30c23da13401af1df89442ee773"
+      } ],
+      "uid" : "d9169496392c7c85f398eb09e604645e"
+    }, {
+      "name" : "test_activityandprograme_list",
+      "children" : [ {
+        "name" : "Test_Programe_List",
+        "children" : [ {
+          "name" : "test_programe_info[活动项目详情]",
+          "uid" : "a165b100443afc59",
+          "parentUid" : "9360ff845800eb137e68e11ff6618f66",
+          "status" : "passed",
+          "time" : {
+            "start" : 1626855560806,
+            "stop" : 1626855561163,
+            "duration" : 357
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "''", "{'result_code': '0', 'result_message': 'ok'}", "''", "''" ]
+        } ],
+        "uid" : "9360ff845800eb137e68e11ff6618f66"
+      } ],
+      "uid" : "fe5651e95bd2d0cf0c2b75edc8f2bb7b"
+    }, {
+      "name" : "test_home_service_list",
+      "children" : [ {
+        "name" : "Test_HomeService_List",
+        "children" : [ {
+          "name" : "test_programe_info[活动申请详情]",
+          "uid" : "ffb0d3fe87b167dc",
+          "parentUid" : "670f52035043d2c48dbd9b9e87300064",
+          "status" : "broken",
+          "time" : {
+            "start" : 1626855561175,
+            "stop" : 1626855561211,
+            "duration" : 36
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'1'", "{'result_code': '0', 'result_message': 'ok'}", "'1'", "'10'" ]
+        } ],
+        "uid" : "670f52035043d2c48dbd9b9e87300064"
+      } ],
+      "uid" : "03887b090f2bec98db9500e0df3e9490"
+    }, {
+      "name" : "test_programe_list",
+      "children" : [ {
+        "name" : "Test_Programe_List",
+        "children" : [ {
+          "name" : "test_programe_info[项目详情]",
+          "uid" : "fe3e0a99c40300fa",
+          "parentUid" : "5a22880efd597f92081a308e90e4bfb6",
+          "status" : "passed",
+          "time" : {
+            "start" : 1626855561555,
+            "stop" : 1626855561680,
+            "duration" : 125
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'1'", "{'result_code': '0', 'result_message': 'ok'}", "'1'", "'10'" ]
+        } ],
+        "uid" : "5a22880efd597f92081a308e90e4bfb6"
+      } ],
+      "uid" : "55a1b7df0366e6c529db09a8ca40cbf7"
+    } ],
+    "uid" : "7559db31629684e5f31176d189a833ac"
+  } ]
+}

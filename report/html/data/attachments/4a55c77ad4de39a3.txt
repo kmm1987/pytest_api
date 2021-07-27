@@ -1,0 +1,2 @@
+INFO     root:logger.py:39 test_programe_info{------活动项目申请接口-----}
+DEBUG    urllib3.connectionpool:connectionpool.py:452 https://portal.summer-ospp.ac.cn:443 "GET /summer/rest2/applyforproject?pageNum=1&pageSize=10&activityId=1 HTTP/1.1" 403 150
