@@ -1,0 +1,10 @@
+pipeline{
+    agent any
+	stages{
+	    stage("autotest"){
+		    steps{
+			    sh 'python run_all.py'
+		    }
+	    }
+	}
+}
