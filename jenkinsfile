@@ -3,7 +3,7 @@ pipeline {
 	stages {
 	    stage("autotest"){
 		    steps {
-			    sh 'python run_all.py'
+			    sh 'python3 run_all.py'
 		    }
 	    }
 	}
