@@ -1,8 +1,8 @@
-pipeline{
+pipeline {
     agent any
-	stages{
+	stages {
 	    stage("autotest"){
-		    steps{
+		    steps {
 			    sh 'python run_all.py'
 		    }
 	    }
